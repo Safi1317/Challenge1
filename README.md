@@ -1,12 +1,11 @@
-g# Horiseon by safia
+# Horiseon by safia
 
 The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.
 
-![Horiseon webpage screenshot](.\assets\images\Horiseon Screenshot .png)
-#License
+![Horiseon webpage screenshot](.\assets\images\HoriseonScreenshot.png)
 
 
-#features
-links
-images
-cards with texts
+# Features
+- links
+- images
+- cards with texts
